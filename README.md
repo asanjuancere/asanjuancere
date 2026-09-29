@@ -1,16 +1,15 @@
-## Hi there 👋
+### Álvaro San Juan
 
-<!--
-**asanjuancere/asanjuancere** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Analista de crédito enfocado en la inteligencia artificial: creación de herramientas, automatización de procesos, agentes de IA y análisis de documentos.
 
-Here are some ideas to get you started:
+*Aprender, probar y mejorar.*
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Diseñé una herramienta interna de IA que redujo más de un 85 % el tiempo de preparar documentación crítica.
+- Máster en IA avanzada y automatización desde octubre de 2026.
+- Trabajo en abierto: cada proyecto cuenta sus decisiones, lo que falla y cómo lo mido.
+
+**En marcha:** [Radar de empleo con IA](https://github.com/asanjuancere/radar-empleo), que puntúa ofertas según mi criterio y mide cuánto acierta.
+
+**English:** credit analyst focused on AI, building tools, process automation, AI agents and document analysis. Every project here explains its decisions, what fails and how I measure it.
+
+[Portfolio](https://asanjuancere.github.io) · [LinkedIn](https://www.linkedin.com/in/sanjuancereceda) · asanjuancere@gmail.com
